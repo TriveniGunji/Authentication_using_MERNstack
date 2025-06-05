@@ -1,6 +1,3 @@
-Sure! Here's a comprehensive **README.md** file for your MERN Authentication System project based on the details you shared:
-
----
 
 # Authentication System - MERN Stack
 
