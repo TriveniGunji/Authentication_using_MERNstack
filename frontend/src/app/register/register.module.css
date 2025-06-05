@@ -1,0 +1,9 @@
+/* frontend/src/app/register/register.module.css */
+.requiredStar {
+    color: #dc3545; /* Red for required field star */
+    margin-left: 2px;
+}
+
+.profileImageInput {
+    /* Specific styles for file input if needed, otherwise global styles apply */
+}

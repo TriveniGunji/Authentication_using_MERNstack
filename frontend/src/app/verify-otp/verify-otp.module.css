@@ -1,0 +1,12 @@
+/* frontend/src/app/verify-otp/verify-otp.module.css */
+.otpInput {
+    text-align: center;
+    letter-spacing: 0.5rem; /* Adjust as needed for spacing between digits */
+    font-size: 1.25rem;
+}
+
+.otpMessage {
+    text-align: center;
+    color: #6c757d; /* text-muted */
+    margin-bottom: 15px;
+}
